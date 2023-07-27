@@ -7,13 +7,13 @@ Criado em python.
 
 Proximos updates.
 
-      --- integração com chatgpt
-      --- integração com camera
-      --- reconhecimento facial
-      --- reconhecimento de objetos
-      --- mecanismos de machine learning
-      --- autogpt (votação)
+      --- Integração com chatgpt
+      --- Integração com camera
+      --- Reconhecimento facial
+      --- Reconhecimento de objetos
+      --- Mecanismos de machine learning
+      --- Autogpt (votação)
       --- Automação de ambientes
       --- Integração com arduino
-      --- metricas
+      --- Metricas
       
