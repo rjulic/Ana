@@ -7,6 +7,7 @@ Criado em python.
 
 Proximos updates.
 
+      --- Voz mais realista
       --- Integração com chatgpt
       --- Integração com camera
       --- Reconhecimento facial
